@@ -8,5 +8,5 @@
   <project path="hardware/broadcom/brcm_usrlib" name="android_hardware_broadcom_brcm_usrlib" remote="androidarmv6" revision="cm-11.0"/>
   <project path="device/samsung/amazing/" name="android_device_samsung_amazing" remote="DZB-Team" revision="master" />
   <project path="vendor/samsung/amazing/" name="android_vendor_samsung_amazing" remote="DZB-Team" revision="master"/>
-  <project path="kernel/samsung/bcm21553-common/" name="android_kernel_samsung_amazing" remote="DZB-Team" revision="master"/>
+  <project path="kernel/samsung/amazing/" name="android_kernel_samsung_amazing" remote="DZB-Team" revision="master"/>
 </manifest>
